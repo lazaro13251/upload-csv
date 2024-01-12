@@ -1,0 +1,11 @@
+id,nombre,descripcion,precio,cantidad
+1,camisa,Descripción del artículo 1,9.99,100
+2,pantalon,Descripción del artículo 2,9,50
+3,sombrero,Descripción del artículo 3,29.99,25
+4,pantalonxl,Descripción del artículo 4,30.99,10
+5,zapatos,Descripción del artículo 5,49.99,5
+6,BOLSA DE MANO,Descripción del artículo 6,50,5
+7,CARTERA,Descripción del artículo 7,7,9
+8,FERNANDO,GARCIA,9,10
+9,CECILIA,GARCIA,10,11
+10,LAZATP,fernando,10,11
