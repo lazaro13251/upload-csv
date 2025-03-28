@@ -1,4 +1,5 @@
 <?php
+// v1
 /* Establecer los detalles de conexión a la base de datos: */
 $host = "127.0.0.1";
 $user = "root";
